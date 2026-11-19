@@ -1,0 +1,11 @@
+{
+  "title" : "The Show Must Go On!",
+  "description" : [
+    "A team of organizers runs a large annual technology conference, bringing together thousands of developers, technology professionals, and industry experts.",
+    "Each year features a new lineup of speakers, talks, and activities. The organizers need a platform to manage the conference, keep attendees informed, and support interactions between speakers and participants.",
+    "Early-bird ticket sales open in three months.",
+    "The platform must also maintain an archive of previous editions, allowing visitors to explore past schedules, speakers, and presentations.",
+    "Requirements: organizers and speakers can manage talks, schedules, room assignments, and conference information; attendees can explore the program, interact with talks, provide feedback, and receive important updates; visitors can explore previous editions, including their programs, speakers, and presentations; all capabilities must be usable on mobile devices, including during the conference; the platform must remain useful during periods of high demand and unreliable venue connectivity",
+    "Users: thousands of attendees, hundreds of speakers, dozens of staff"
+  ]
+}
